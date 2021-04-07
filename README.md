@@ -4,5 +4,5 @@ Themes for Discord. A better color appeal to discord. Stop using the boring grey
 ## How to Apply
 1. update discord by installing betterdiscord. (https://github.com/BetterDiscord/Installer/releases/tag/v1.0.0-beta).
         
-         NOT AN OFFICIAL UPDATE.
+      NOT AN OFFICIAL UPDATE.
 2. 
