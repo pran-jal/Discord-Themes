@@ -12,5 +12,5 @@ Themes for Discord. A better color appeal to discord. Stop using the boring grey
 6. Paste the .theme.css files in this directory and close it.
 7. Now under Themes (under the open theme folder option) enable the theme of your choice.
 
-     ![alt text]( https://github.com/pran-jal/Night-Owl-Theme/blob/main/Preview.png )
+     ![alt text]( https://github.com/pran-jal/Discord-Themes/blob/main/1.jpg )
 9. close Settings.
