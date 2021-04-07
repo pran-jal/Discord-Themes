@@ -11,7 +11,7 @@ Themes for Discord. A better color appeal to discord. Stop using the boring grey
 5. click on "Open Theme Folder".
 6. Paste the .theme.css files in this directory and close it.
 
-      ![alt text]()
+      ![alt text]( https://github.com/pran-jal/Discord-Themes/blob/main/2.jpg )
 7. Now under Themes (under the open theme folder option) enable the theme of your choice.
 
      ![alt text]( https://github.com/pran-jal/Discord-Themes/blob/main/1.jpg )
