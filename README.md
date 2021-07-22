@@ -2,7 +2,7 @@
 Themes for Discord. A better color appeal to discord. Stop using the boring grey color theme.
 
 ## How to Apply
-1. update discord by installing betterdiscord. (https://github.com/BetterDiscord/Installer/releases/tag/v1.0.0-hotfix).
+1. update discord by installing [betterdiscord.](https://github.com/BetterDiscord/Installer/releases/tag/v1.0.0-hotfix).
         
        NOT AN OFFICIAL UPDATE.
 
